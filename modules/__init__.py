@@ -1,0 +1,1 @@
+__all__ = ["classi", "esperienze", "settings", "studenti"]
